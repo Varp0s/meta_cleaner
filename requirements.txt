@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-docx
+PyExifTool
+PyPDF2
+Pillow
+python-multipart
+python-dotenv
