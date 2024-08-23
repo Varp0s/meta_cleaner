@@ -6,7 +6,7 @@ This project provides an API for uploading files and cleaning metadata from them
 I would appreciate if you test it and give me feedback, until then stay healthy!
 
 ## Installation
-
+Change env.template to env after cd env change .env.template to .env 
 1. Clone the repository:
     ```sh
     git clone https://github.com/Varp0s/meta_cleaner
