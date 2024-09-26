@@ -2,7 +2,7 @@
 
 ![File Cleaner API](/images/api_cleaned.png)
 
-This project provides an API for uploading files and cleaning metadata from them. Supported file types include `.doc`, `.docx`, `.pdf`, `.jpg`, `.jpeg`, `.png`, `.gif`, `.ico`, `.tiff`, `.bmp`, `.webp`, `.heic`, `.heif`, `.jfif`, `.pjpeg`, `.pjp`, `.svg` and `.svgz`.
+This project provides an API for uploading files and cleaning metadata from them. Supported file types include `.doc`, `.docx`, `.pdf`, `.jpg`, `.jpeg`, `.png`, `.gif`,
 I would appreciate if you test it and give me feedback, until then stay healthy!
 
 ## Installation
